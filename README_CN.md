@@ -94,7 +94,7 @@ python pihexa/animate.py
 
 **正在寻找升级版本？** 查看我最新使用 **ESP32** 驱动的六足机器人项目，具有改进的硬件设计和增强的性能！
 
-🔗 **[ESP32 六足机器人项目](https://github.com/ViolinLee/NodeHexad)**
+🔗 **[ESP32 六足机器人项目](https://github.com/ViolinLee/NodeHexa)**
 
 ### 主要改进：
 

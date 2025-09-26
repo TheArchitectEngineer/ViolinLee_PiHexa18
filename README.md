@@ -14,12 +14,15 @@
 
 ## 📋 Table of Contents
 
-- [Setup](#-setup-raspberry-pi-zero-2-w)
-- [Running](#-running-the-main-process)
-- [Animation](#-animation)
-- [Project Overview](#-brief-introduction)
-- [Demonstration](#-demonstration-video)
-- [New Project](#-new-project-esp32-hexapod)
+- [PiHexa V1](#pihexa-v1)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [⚙️ Setup Raspberry Pi Zero 2 W](#️-setup-raspberry-pi-zero-2-w)
+  - [🚀 Running the Main Process](#-running-the-main-process)
+  - [🎬 Animation](#-animation)
+  - [📖 Brief Introduction](#-brief-introduction)
+  - [🎥 Demonstration (Video)](#-demonstration-video)
+  - [🚀 New Project: ESP32 Hexapod](#-new-project-esp32-hexapod)
+    - [Key Improvements:](#key-improvements)
 
 ---
 
@@ -91,7 +94,7 @@ python pihexa/animate.py
 
 **Looking for an upgraded version?** Check out my latest hexapod project powered by **ESP32** with improved hardware design and enhanced performance!
 
-🔗 **[ESP32 Hexapod Project](https://github.com/ViolinLee/NodeHexad)**
+🔗 **[ESP32 Hexapod Project](https://github.com/ViolinLee/NodeHexa)**
 
 ### Key Improvements:
 
